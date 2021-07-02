@@ -1,0 +1,13 @@
+makefile cmake 【差不多了，可以看文档持续学习】
+异步日志 glog boot::log
+单客户端连接 阿里云
+多客户端连接 epoll reactor
+性能测试 http_load 和 web_bench
+UDP可靠传输 看看kcp然后自己搞个用户层协议
+聊天、文件传输、解决粘包问题
+redis/nignx/mysql一类的东西
+五子棋游戏网络对战
+手机游戏对战
+手机聊天室、pc聊天室（可通讯可传文件）
+百万并发
+协程
